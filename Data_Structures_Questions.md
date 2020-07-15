@@ -3,7 +3,7 @@ Answer the following questions for each of the data structures you implemented a
 ## Stack
 
 1. What is the runtime complexity of `push` using a list?
-O(n)
+O(n) - linear time the longer the list the longer it has to traverse the list to the end
 
 2. What is the runtime complexity of `push` using a linked list?
 
